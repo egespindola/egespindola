@@ -15,6 +15,9 @@
 <a href="mailto:eds.gesp@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=eds.gesp@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
+<a href="https://www.instagram.com/egespindola/">
+    <img alt="link to my Instagram" src="https://img.shields.io/static/v1?label&message=/egespindola&color=fcfcfc&style=for-the-badge&logo=instagram" height="22px" />
+</a>
 </br>
 
 <h2>:bulb: Languages & Frameworks I code in</h2>
